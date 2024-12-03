@@ -2,7 +2,7 @@
 
 > 🌐️ English | [中文](README_CN.md)
 
-`windsurf-vip` is a tool service for windsurf smart code editor to enjoy VIP intelligent prompts without logging in.
+`windsurf-vip` is a tool service for Windsurf smart code editor to enjoy VIP intelligent prompts without logging in.
 
 
 ### Usage
@@ -50,7 +50,7 @@ Strong proxy mode For the first time after starting, you need to install the tru
 -->
 
 Enjoy windsurf-vip:
-* Open the windsurf code editor, click the settings icon in the upper right corner, and you can see that you are already a VIP account.
+* Open the Windsurf code editor, click the settings icon in the upper right corner, and you can see that you are already a VIP account.
 * Enjoy code prompts and chat functions.
 
 ---
@@ -58,7 +58,7 @@ Enjoy windsurf-vip:
 By promoting windsurf-vip, you can automatically get up to an unlimited amount of free usage time, and the other party can also get 15 days of free (self-registration for 7 days), you can refer to the following methods:
 1. After cloning this repository, replace `githubReadme` in the `README` with your DeviceID.
 2. Post articles on platforms such as SegmentFault/Stack Overflow/GitHub Discussions/Reddit/Dev.to/Hacker News/DZone/V2EX/Quora/WeChat Official Account/Zhihu/Bilibili/CSDN/, promoting the use of windsurf pro in this way, and attach your own promotional installation command or cloned github address.
-3. Comment under windsurf related articles or videos, for example: "Cooperate with Github's [Your Github Name]/windsurf-vip for low-priced or freelancing Pro"
+3. Comment under Windsurf related articles or videos, for example: "Cooperate with Github's [Your Github Name]/windsurf-vip for low-priced or freelancing Pro"
 ---
 ### Star History
 <a href="https://star-history.com/#kingparks/windsurf-vip&Date">
